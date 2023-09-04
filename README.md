@@ -12,7 +12,7 @@ Explore ThreeJs website and see different websites available on showcase to get 
 
 #### Example Websites
 
-[Website](https://eyes.nasa.gov/apps/solar-system/#/home) NASA's official website representing solar system.
+NASA's official [website](https://eyes.nasa.gov/apps/solar-system/#/home) representing solar system.
 
 [Website](https://www.kubota.com/futurecube/) of Kubota's smart agriculatural solutions.
 
@@ -28,7 +28,7 @@ GSAP lets you animate anything whether it is an image, threeJs or even whole Rea
 
 ### Physics Libraries
 
-Physics libraries allows us to create and represent real physical behaviours such as gravity, friction, forces, collision, rigid and soft body dynamics, fluid dynamics etc.
+Physics libraries allows us to create and represent real-world physical behaviours such as gravity, friction, forces, collision, rigid and soft body dynamics, fluid dynamics etc.
 
 Ammo.js
 
