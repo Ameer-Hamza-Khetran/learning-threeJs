@@ -1,6 +1,6 @@
 ## Introduction to 3D
 
-[Basic 3D Theory](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory)
+Understand [Basic 3D Theory](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Basic_theory)
 
 Understand [what is OpenGL, WebGL, WebGPU, ThreeJs](https://www.youtube.com/watch?v=6AHpdQCrf_Q) and the relaitonship between them in 4 minutes.
 
