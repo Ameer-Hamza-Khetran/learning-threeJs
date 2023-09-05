@@ -6,15 +6,15 @@ Understand [what is OpenGL, WebGL, WebGPU, ThreeJs](https://www.youtube.com/watc
 
 ## Useful Resources
 
-### [ThreeJs Website](https://threejs.org/)
+### [Three.Js website](https://threejs.org/)
 
-Explore ThreeJs website and see different websites available on showcase to get inspiration and motivation.
+Explore ThreeJs website and see different websites available on showcase to get inspiration and ideas.
 
 #### Example Websites
 
 NASA's official [website](https://eyes.nasa.gov/apps/solar-system/#/home) representing solar system.
 
-[Website](https://www.kubota.com/futurecube/) of Kubota's smart agriculatural solutions.
+[Website](https://www.kubota.com/futurecube/) of Kubota's smart agricultural solutions.
 
 [Website](https://vrseat.vercel.app/) to select Opera House seats in 3D.
 

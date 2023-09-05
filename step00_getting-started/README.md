@@ -24,7 +24,7 @@ A frustum is the name of a 3d shape that is like a pyramid with the tip sliced o
 
 [Canvas Responsiveness](https://threejs.org/manual/#en/responsive)
 
-### Bolgs
+### Blogs
 
 [Integrating Three.js with Next.js and TypeScript](https://medium.com/@claude.ando/integrating-three-js-with-next-js-and-typescript-81f47730103e)
 
